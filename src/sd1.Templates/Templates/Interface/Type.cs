@@ -1,9 +1,5 @@
-﻿using System;
-
-namespace Path
+﻿namespace Path;
+public interface Type
 {
-    public interface Type
-    {
-        
-    }
+
 }
